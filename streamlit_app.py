@@ -1,6 +1,6 @@
 import streamlit
 streamlit.title('My Parents New Healthy Dinner')
 Breakfast Menu
-omlega 3 & Blueberry Oatmeal
-kale, Spinache & Rocket Smothie
+Omega 3 & Blueberry Oatmeal
+kKale, Spinache & Rocket Smothie
 Hard -Boliled Free-range Egg
